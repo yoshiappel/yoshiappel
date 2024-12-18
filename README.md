@@ -2,7 +2,7 @@
 - 🏳️ I’m Dutch
 - 🏫 I’m in my second year of Software Development
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#, C++
+- 🌱 I’m currently learning C#, C++ and much more..
 - ⚡ Fun fact: I Like C#
 
 <!---
