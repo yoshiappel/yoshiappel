@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @yoshiappel
-- 🏳️ I’m Dutch
-- 🏫 I’m in my second year of Software Development
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#, C++ and much more..
-- ⚡ Fun fact: I Like C#
+- 👋 Hi, I’m @yoshiappel.
+- 🏳️ I live in the Netherlands.
+- 🏫 Currently studying Software Development at Firda.
+- 👀 I’m interested in Game Development.
+- 🌱 I am currently learning C# and Python.
+- ⚡ Fun fact: I Like C#.
 
 <!---
 yoshiappel/yoshiappel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
