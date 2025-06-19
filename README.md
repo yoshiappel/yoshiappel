@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yoshiappel.
 - 🏳️ I live in the Netherlands.
 - 🏫 Currently studying Software Development at Firda.
-- 👀 I’m interested in Game Development.
-- 🌱 I am currently learning C# and Python.
+- 👀 I’m interested in Game Development and UI/UX.
+- 🌱 I am currently learning Python and SQL.
 - ⚡ Fun fact: I Like C#.
 
 <!---
