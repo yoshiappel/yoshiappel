@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yoshiappel.
+- 👋 Hi, I’m Pieter.
 - 🏳️ I live in the Netherlands.
 - 🏫 Currently studying Software Development at Firda.
 - 👀 I’m interested in Game Development and UI/UX.
