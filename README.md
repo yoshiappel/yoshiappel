@@ -2,7 +2,7 @@
 - 🏳️ I live in the Netherlands.
 - 🏫 Currently studying Software Development at Firda.
 - 👀 I’m interested in Game Development and UI/UX.
-- 🌱 I am currently learning Python and SQL.
+- 🌱 I am currently learning some more Unity C#.
 - ⚡ Fun fact: I Like C#.
 
 <!---
