@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Interning at Maarsingh & van Steijn<br>📚 Currently learning WEM<br>🎯 Always open to collab on games<br>🎲 Fun fact: ... i like c#</p>
+<p align="left">✨ Interning at Maarsingh & van Steijn<br>📚 Currently learning WEM<br>🎯 Always open to collab on games<br>🎲 Fun fact: ... i like c#</p>
 
 ###
 
