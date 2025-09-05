@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Pieter</h1>
+<h1 align="left">Hey I'm Pieter</h1>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React and Untiy C#<br>🎯 Always open to collab on games<br>🎲 Fun fact: ... i like c#</p>
+<p align="left">✨ Currently Interning at Maarsingh & van Steijn<br>📚 Learning WEM<br>🎯 Always open to collab on games<br>🎲 Fun fact: ... i like c#</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I use</h2>
 
 ###
 
