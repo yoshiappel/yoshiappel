@@ -1,1 +1,1 @@
-18 years old software developer, I'm interested in game development 
+18 years old, software developer, interested in game development 
